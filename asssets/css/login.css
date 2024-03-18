@@ -1,0 +1,41 @@
+body {
+    /* Fondo con degradado de colores rosados */
+    background: linear-gradient(to bottom, #fa1788, #ff6699);
+   
+    font-family: Arial, sans-serif;
+}
+
+
+.container {
+    margin-top: 100px; /* Espacio desde la parte superior */
+}
+
+.login-container {
+    background-color: #fdf9f9; /* Fondo blanco */
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #720328; /* Texto rosado */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #f00619; /* Texto rosado */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el botón */
+.btn-primary {
+    background-color: #da1536; /* Fondo rosa */
+    border-color: #9b0303; /* Borde rosa */
+}
+
+.btn-primary:hover {
+    background-color: #ff3366; /* Fondo rosa más oscuro al pasar el ratón */
+    border-color: #ff3366; /* Borde rosa más oscuro al pasar el ratón */
+}

@@ -1,0 +1,49 @@
+
+
+body {
+    background: linear-gradient(to bottom, #fa1788, #ff6699);
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.transaction-history {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #ff6699;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #ff6699;
+    border-color: #ff6699;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #ff3366;
+    border-color: #ff3366;
+}
+
+.table th, .table td {
+    border-top: none;
+    color: #333;
+}
+
+.table th {
+    background-color: #f8f9fa; 
+}
+
+.table td {
+    border-color: #ccc;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(139, 2, 48, 0.1); 
+}

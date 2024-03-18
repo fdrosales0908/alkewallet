@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(to bottom, #fa1788, #ff6699);
+            font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.login-container, .main-menu, .send-funds {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #ff6699;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #ff6699;
+    border-color: #ff6699;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #ff3366;
+    border-color: #ff3366;
+}
+
+.btn-secondary {
+    background-color: #5bc0de; 
+    border-color: #5bc0de; 
+    font-size: 16px;
+}
+
+.btn-secondary:hover {
+    background-color: #af082c; 
+    border-color: #850630; 
+}
+
+.btn-info {
+    background-color: #d1176e; 
+    border-color: #e21f97; 
+    font-size: 16px;
+}
+
+.btn-info:hover {
+    background-color: #d30b7f; 
+    border-color: #9b0202; 
+}

@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to bottom, #fa1788, #ff6699); /* para que quede un poco degradado el fondo */
+            font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.main-menu {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+h1 {
+    color: #ff6699;
+    margin-bottom: 30px;
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
+.info p {
+    color: #333;
+    font-size: 18px;
+}
+
+.btn-primary {
+    background-color: #ff6699;
+    border-color: #ff6699;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #ff3366;
+    border-color: #ff3366;
+}
